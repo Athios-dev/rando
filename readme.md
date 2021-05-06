@@ -41,4 +41,4 @@ Rando is configured using the `data-*` attribute.
 | `data-words` | The **list** of **words** |
 
 ## 👀 Demo
-You can see [here](https://athios-dev.github.io/rando/demo) a demo of this plugin.
+You can see [here](https://athios-dev.github.io/rando/public) a demo of this plugin.
